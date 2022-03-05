@@ -96,7 +96,10 @@
             "dt": "Various (Tactical Hex)",
             "m": true,
             "i": false
+        },
+        {
+            "a": "aa9992",
+            "i": true
         }
-
     ]
 }
